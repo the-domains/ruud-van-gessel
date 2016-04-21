@@ -1,0 +1,28 @@
+name: Ruud van Gessel
+favicon: null
+layout_spectrum: 0.5698872958309948
+typography_spectrum: 0.12614788860082626
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5404818474780768
+  lightness: 0.9173697440419346
+  saturation: 0.12060768320225179
+  rhythmicContrast: 0.768991015618667
+purpose: []
